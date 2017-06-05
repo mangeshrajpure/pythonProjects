@@ -9,6 +9,5 @@ if num >= 0:
         print("zero")
     else:
         print("Positive number")
-        print("great...")
 else:
     print("Negative")
